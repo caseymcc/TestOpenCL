@@ -1,0 +1,4 @@
+<RCC>
+    <qresource prefix="TestOpenCL">
+    </qresource>
+</RCC>
